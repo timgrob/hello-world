@@ -1,2 +1,2 @@
 # hello-world
-simle hello world HTML code to mess with github
+simple hello world HTML code to mess with github
